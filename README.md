@@ -31,7 +31,7 @@ This project is a simple weather application that fetches and displays weather d
 - Enter a valid city name and check if the correct weather details are displayed.
 
 ### Error Handling Tests
-- Try entering an invalid city name (e.g., "Kovilpatti") and verify that an error message appears.
+- Try entering an invalid city name (e.g., "Dharmapuri") and verify that an error message appears.
 - Disconnect from the internet and check how the app handles network errors.
 
 ## Enhancements & Future Improvements
